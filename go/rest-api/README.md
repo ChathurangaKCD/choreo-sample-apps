@@ -21,6 +21,7 @@ Generated using Go annotations https://github.com/swaggo/swag
 
 ```shell
 swag init
+
 ```
 
 #### Load initial data ( optional )
