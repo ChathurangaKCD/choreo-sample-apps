@@ -5,7 +5,8 @@
 The below table gives a brief overview of the important files in the service.\
 Note: The following file paths are relative to the path /nodejs/rest-api/
 
-| Filepath               | Description                                                                                                                                                  |
+| Filepath               | Description                                                                                                            
+|
 | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | app.mjs                | The Node.js(JavaScript) based service code.                                                                                                                  |
 | Dockerfile             | Choreo uses the Dockerfile to build the container image of the application.                                                                                  |
